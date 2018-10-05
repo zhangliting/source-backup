@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangliting/github/source-backup/Algorithmn/Sort/SortTestHelper.h
+iostream
+-
+
+/Users/zhangliting/github/source-backup/Algorithmn/Sort/main.cpp
+iostream
+-
+SortTestHelper.h
+/Users/zhangliting/github/source-backup/Algorithmn/Sort/SortTestHelper.h
+cmath
+-
+
